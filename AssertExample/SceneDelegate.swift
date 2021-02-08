@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  AssertExample
 //
-//  Created by Thiago de Paula Lourin on 07/02/21.
+//  Created by Thiago Lourin on 07/02/21.
 //
 
 import UIKit
